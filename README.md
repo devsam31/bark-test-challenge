@@ -16,11 +16,6 @@ In this app I am adding all necessary validations for user Password field. I hav
   4. Password must have at least one special letter
   5. Password must have at least one digit
 
-`(Ideally, a demo video should be put here.)`
-
-<img width="1409" alt="Screenshot 2023-11-09 at 7 17 12 PM" src="https://github.com/beinghaziq/awesome-readme/assets/72576839/c884958c-f0dd-4ae1-bdcc-39a888cddcb8">
-
-
 # Build With
 
 - Framework: Ruby on Rails 7.0, Hotwire Stimulus
@@ -40,7 +35,7 @@ In this app I am adding all necessary validations for user Password field. I hav
 
 1. **Clone the Repository**:
    ```bash
-   git clone [<repository-url>](https://github.com/Owner/repo.git)
+   git clone [<repository-url>](https://github.com/Chsaleem31/bark-test-challenge.git)
    cd repo
    ```
 
