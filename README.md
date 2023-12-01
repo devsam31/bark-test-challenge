@@ -16,6 +16,9 @@ In this app I am adding all necessary validations for user Password field. I hav
   4. Password must have at least one special letter
   5. Password must have at least one digit
 
+## Demo
+[Watch Demo on Loom](https://www.loom.com/share/ac0143adcf5c40cf9abdcdfec903aaab?sid=a92783df-706d-4618-bb6d-a6f6570f6f2f)
+
 # Build With
 
 - Framework: Ruby on Rails 7.0, Hotwire Stimulus
