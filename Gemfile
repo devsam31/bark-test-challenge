@@ -18,6 +18,8 @@ gem 'bootstrap'
 
 group :development, :test do
   gem "byebug"
+  gem 'factory_bot_rails'
+  gem 'faker'
 end
 
 group :development do
@@ -25,6 +27,9 @@ group :development do
 end
 
 group :test do
+  gem 'shoulda-matchers'
+  gem 'rspec-rails'
+  gem 'rails-controller-testing'
   gem "capybara"
   gem "selenium-webdriver"
 end
