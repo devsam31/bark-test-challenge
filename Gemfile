@@ -12,6 +12,7 @@ gem "jbuilder"
 gem "redis", ">= 4.0.1"
 gem "tzinfo-data"
 gem "bootsnap", require: false
+gem 'bcrypt'
 gem 'sassc-rails'
 gem 'bootstrap'
 

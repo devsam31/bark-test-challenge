@@ -1,0 +1,5 @@
+en:
+  user:
+    errors:
+      password: must include at least one lowercase letter, one uppercase letter, one digit, and one special character
+      email: is not a valid email
